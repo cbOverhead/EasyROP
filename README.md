@@ -1,3 +1,5 @@
+**NOTE**: An evolution of this project can be found [here](https://github.com/reverseame/rop3). This repository is kept read-only for historical reasons.
+
 # EasyROP
 This Python tool allows you to search gadgets, operations formed by gadgets and generate automatic ROP chains in Portable Executable (PE). EasyROP is based in Capstone Disassembly Framework to search gadgets.
 
